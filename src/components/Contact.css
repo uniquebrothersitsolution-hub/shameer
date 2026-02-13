@@ -90,7 +90,7 @@
 .form-group textarea:focus {
     outline: none;
     border-color: var(--primary);
-    background: rgba(0, 210, 255, 0.05);
+    background: rgba(120, 8, 28, 0.05);
 }
 
 .form-btn {

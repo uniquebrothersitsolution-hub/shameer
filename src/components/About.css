@@ -82,9 +82,9 @@
 
 .stat-item {
     padding: 1.5rem;
-    background: rgba(0, 210, 255, 0.05);
+    background: rgba(120, 8, 28, 0.05);
     border-radius: 16px;
-    border: 1px solid rgba(0, 210, 255, 0.1);
+    border: 1px solid rgba(120, 8, 28, 0.1);
     transition: var(--transition-smooth);
 }
 

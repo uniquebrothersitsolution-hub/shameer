@@ -7,7 +7,7 @@ import './About.css';
 const About = () => {
     const stats = [
         { label: 'Followers', value: '35K+' },
-        { label: 'Collaborations', value: '299+' },
+        { label: 'Collaborations', value: '99+' },
         { label: 'Region', value: 'Nagapattinam' },
         { label: 'Creative Style', value: 'Bold' }
     ];

@@ -20,7 +20,7 @@
 .service-card:hover {
     transform: translateY(-10px);
     border-color: var(--primary);
-    background: rgba(0, 210, 255, 0.05);
+    background: rgba(120, 8, 28, 0.05);
 }
 
 .service-icon {
