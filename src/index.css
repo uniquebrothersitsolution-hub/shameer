@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   /* Deep Maroon Palette */
   --primary: #78081c;
